@@ -1,0 +1,20 @@
+/* src/App.css */
+.app-bar {
+  background-color: #2196f3;
+  padding: 10px 0;
+}
+
+.app-bar-inner {
+  display: flex;
+  justify-content: space-around;
+}
+
+.app-bar a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.content {
+  padding: 20px;
+}
